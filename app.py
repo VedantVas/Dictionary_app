@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6, p, span, div {
 st.markdown(page_bg, unsafe_allow_html=True)
 
 # ----------------- TITLE -----------------
-st.markdown("<h1 style='text-align:center; color:#0F4C75;'>📖 Dictionary App</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#0F4C75;'>📖 Diction, The Dictionary App</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center; font-size:18px; color:#1B262C;'>Type any English word and get its meaning, pronunciation, and example sentences.</p>", unsafe_allow_html=True)
 
 # ----------------- INPUT -----------------
